@@ -1,0 +1,2 @@
+# -Computational-Engineering-Physics-
+All the code I have written for Engineering Physics 213, Computational Engineering Physics. Introduction to the use of numerical methods in solving physics and engineering problems. A high-level language appropriate for engineering, such as Python, will be introduced and used throughout the course. Possible topics to be covered include numerical differentiation and integration, root finding and optimization problems, solution of linear systems of equations, finite-element modelling, fast Fourier transforms and Monte Carlo simulations.
